@@ -1,0 +1,37 @@
+[
+  {
+    "idNumber": "2963395128",
+    "firstName": "Small",
+    "lastName": "Austin",
+    "fatherName": "Poole",
+    "birthDay": "2019-01-18T01:11:31"
+  },
+  {
+    "idNumber": "680267351",
+    "firstName": "Donovan",
+    "lastName": "Hamilton",
+    "fatherName": "Olive",
+    "birthDay": "2018-12-12T08:21:39"
+  },
+  {
+    "idNumber": "292699671",
+    "firstName": "Henson",
+    "lastName": "Johnson",
+    "fatherName": "Josefa",
+    "birthDay": "2022-01-17T01:15:55"
+  },
+  {
+    "idNumber": "560197514",
+    "firstName": "Hawkins",
+    "lastName": "Joseph",
+    "fatherName": "Natalie",
+    "birthDay": "2019-12-12T06:55:47"
+  },
+  {
+    "idNumber": "940080692",
+    "firstName": "Isabelle",
+    "lastName": "Preston",
+    "fatherName": "Velasquez",
+    "birthDay": "2014-10-13T09:18:57"
+  }
+]
